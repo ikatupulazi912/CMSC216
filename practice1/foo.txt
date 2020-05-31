@@ -1,0 +1,4 @@
+foo.txt
+try
+try.c
+try.o

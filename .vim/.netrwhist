@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/cmsc2161/cmsc216108/Exercise03'
+let g:netrw_dirhist_2='/home/cmsc2161/cmsc216108/Project3'
+let g:netrw_dirhist_3='/home/cmsc2161/cmsc216108/practice1'
